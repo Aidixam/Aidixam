@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aidixam
-- 👀 Slm mn ayda poordolati hastm daneshjo mohandesi pezeshki 
+- 👀 سلام من آیدا پوردولتی هستم دانشجوی رشته مهندسی پزشکی
 
-Tlgrm 👇
+تلگرام 👇
 @Aiidap
 
 <!---
