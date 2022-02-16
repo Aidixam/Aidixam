@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aidixam
-- 👀 Slm mn ayda poordolati hastm daneshjo mohandesi pezeshki 
+- 👋 Hi, I’m @Aidixm
+- 👀 
+سلام من آیدا پوردولتی هستم دانشجوی رشته مهندسی پزشکی 
 
-Tlgrm 👇
-@Aiidap
+@Aiidap.     راه ارتباطی با من  در تلگرام 
 
 <!---
 Aidixam/Aidixam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
