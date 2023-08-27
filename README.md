@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aidixam
 - 👀 سلام من آیدا پوردولتی هستم دانشجوی رشته مهندسی پزشکی
 
-تلگرام 👇
-@Aiidap
+
+
 
 <!---
 Aidixam/Aidixam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
